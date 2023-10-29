@@ -11,22 +11,22 @@ This is a my major project work on it in local machine and after complete i push
 
 ## Learn Some Important <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> Property
 
->Some important Points That I have Learned During Making this are
->Fetch Youtube API AND Render Popular Videos On Screen
->Using Live Search API Show Suggestion and GO on that particular video 
-=>added debouncing while searching when the time between two key strokes(press) is less than 200ms it didn't make an api call where if time between two key strokes(press) is greater than 200ms it makes api call
-=>used useLocation to maintain the navigation link based on navigation link get from useLocation it redirect to that component and active componet will have red background
-=>Implementd 2 level nested comments
-=>implemented live chat using API polling
+- Some important Points That I have Learned During Making this are
+- Fetch Youtube API AND Render Popular Videos On Screen
+- Using Live Search API Show Suggestion and GO on that particular video 
+- added debouncing while searching when the time between two key strokes(press) is less than 200ms it didn't make an api call where if time between two key strokes(press) is greater than 200ms it makes api call
+- used useLocation to maintain the navigation link based on navigation link get from useLocation it redirect to that component and active componet will have red background
+- Implementd 2 level nested comments
+- implemented live chat using API polling
 
 
 ## FEATURES
--- LIVE Search Functionality 
--- Show Search Suggestion
--- LIVE Chat Feature It Render ON UI and U can also add Live Comment
--- user Like And DisLike Video and Save For watch Later and See the video after 
--- user comment and reply on the video
--- also see suggestion video
+- LIVE Search Functionality 
+- Show Search Suggestion
+- LIVE Chat Feature It Render ON UI and U can also add Live Comment
+- user Like And DisLike Video and Save For watch Later and See the video after 
+- user comment and reply on the video
+- also see suggestion video
 
 
 [My Youtube](https://653e33877cf2405b84d61f52--peaceful-melomakarona-88a75f.netlify.app/live)
