@@ -29,4 +29,4 @@ This is a my major project work on it in local machine and after complete i push
 - also see suggestion video
 
 ## LIVE
-[My Youtube](https://653e33877cf2405b84d61f52--peaceful-melomakarona-88a75f.netlify.app/live)
+[My Youtube](https://peaceful-melomakarona-88a75f.netlify.app/)
