@@ -20,7 +20,7 @@ const Home = () => {
     data: {},
   });
 
-  document.title = "Youtube Vinay";
+  document.title = "Nilesh YOUTUBE";
   useEffect(() => {
     setApiStatus((prev) => ({
       ...prev,
